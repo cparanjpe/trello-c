@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Taskify",
+  name: "Project Pilot",
   description: "Collaborate, manage projects and reach new productivity peaks.",
   keywords: [
     "reactjs",

@@ -1,15 +1,15 @@
 <a name="readme-top"></a>
 
-# Taskify - Collaborate, manage projects and reach new productivity peaks.
+# Project Pilot - Collaborate, manage projects and reach new productivity peaks.
 
-![Taskify - Collaborate, manage projects and reach new productivity peaks.](/.github/images/img_main.png "Taskify - Collaborate, manage projects and reach new productivity peaks.")
+![Project Pilot - Collaborate, manage projects and reach new productivity peaks.](/.github/images/img_main.png "Project Pilot - Collaborate, manage projects and reach new productivity peaks.")
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/sanidhyy/trello-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/trello-clone/blob/main/LICENSE "GitHub license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/trello-clone/commits/main "Maintenance")
 [![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/trello-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/trello-clone/branches "GitHub branches")
 [![Github commits](https://flat.badgen.net/github/commits/sanidhyy/trello-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/trello-clone/commits "Github commits")
-[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://app-taskify.vercel.app/ "Vercel status")
+[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://app-Project Pilot.vercel.app/ "Vercel status")
 [![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/trello-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/trello-clone/issues "GitHub issues")
 [![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/trello-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/trello-clone/pulls "GitHub pull requests")
 
@@ -209,7 +209,7 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 
 ## :wrench: Stats
 
-[![Stats for Taskify](/.github/images/stats.svg "Stats for Taskify")](https://pagespeed-insights-svg.glitch.me/?url=https://app-taskify.vercel.app/ "Stats for Taskify")
+[![Stats for Project Pilot](/.github/images/stats.svg "Stats for Project Pilot")](https://pagespeed-insights-svg.glitch.me/?url=https://app-Project Pilot.vercel.app/ "Stats for Project Pilot")
 
 ## :raised_hands: Contribute
 

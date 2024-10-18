@@ -36,10 +36,10 @@ export const ProModal = () => {
 
         <div className="text-neutral-700 mx-auto space-y-6 p-6">
           <h2 className="font-semibold text-xl">
-            Upgrade to Taskify Pro Today!
+            Upgrade to Project Pilot Pro Today!
           </h2>
           <p className="text-xs font-semibold text-neutral-700">
-            Explore the best of Taskify.
+            Explore the best of Project Pilot.
           </p>
 
           <div className="pl-3">
